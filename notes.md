@@ -16,3 +16,11 @@ Mini project:
   Be able to play music using CV.
   User touches virtual pads, and the embedded system produces a sound. So technically you could make mixes using my system - 
   something similar toDrum Pad Machine - Make Beats application. 
+  
+ 
+**Inspiration repos:**
+
+- https://github.com/Ruslan-Pantaev/midi_music_generator
+- https://github.com/gilesbowkett/archaeopteryx
+- https://github.com/gilesbowkett/arx
+
